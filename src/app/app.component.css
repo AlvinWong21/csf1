@@ -1,0 +1,26 @@
+#initialDisplay {
+    font-weight: 600;
+    font-style: italic;
+}
+
+span {
+    font-style: italic;
+}
+
+.historyWrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.colContent {
+    margin: auto;
+}
+
+.imgs {
+    display:inline-block;
+}
+
+.blockContent {
+    margin: auto;
+    display: block;
+}
